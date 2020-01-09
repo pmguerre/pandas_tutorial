@@ -1,2 +1,3 @@
 pandas
 jupyterlab
+notebook>=6.0.3
